@@ -6,9 +6,6 @@ class Solution {
             if (nums[i] > nums[next]){
                 breaks++;
             }
-            if(breaks > 1){
-                return false;
-            }
         }
         return breaks <=1;
         

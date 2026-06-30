@@ -7,6 +7,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-2111/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gaurav-2111/DSA-problems/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gaurav-2111/DSA-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -14,10 +15,15 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-2111/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gaurav-2111/DSA-problems/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-2111/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

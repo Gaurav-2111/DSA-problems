@@ -33,4 +33,5 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Gaurav-2111/DSA-problems/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/Gaurav-2111/DSA-problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

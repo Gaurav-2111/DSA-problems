@@ -29,4 +29,8 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-2111/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Gaurav-2111/DSA-problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

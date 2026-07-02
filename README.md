@@ -12,6 +12,7 @@ solving Data Structure Algorithm problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-2111/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gaurav-2111/DSA-problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Gaurav-2111/DSA-problems/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gaurav-2111/DSA-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -24,6 +25,7 @@ solving Data Structure Algorithm problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-2111/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gaurav-2111/DSA-problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +34,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-2111/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -42,6 +45,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -50,4 +54,8 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

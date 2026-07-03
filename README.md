@@ -6,6 +6,7 @@ solving Data Structure Algorithm problems
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0088-merge-sorted-array) |
@@ -18,6 +19,7 @@ solving Data Structure Algorithm problems
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -44,6 +46,7 @@ solving Data Structure Algorithm problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 ## String

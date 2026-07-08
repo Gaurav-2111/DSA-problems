@@ -8,9 +8,7 @@ class Solution {
                 max_sum = current_sum;
             }
             if(current_sum < nums[i]){
-                if(max_sum < nums[i]){
-                    max_sum = nums[i];
-                }
+                max_sum = Math.max(max_sum , nums[i]);
                 
                 current_sum = nums[i];
             }

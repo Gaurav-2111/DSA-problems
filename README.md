@@ -57,6 +57,7 @@ solving Data Structure Algorithm problems
 | [0595-big-countries](https://github.com/Gaurav-2111/DSA-problems/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Gaurav-2111/DSA-problems/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Gaurav-2111/DSA-problems/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Gaurav-2111/DSA-problems/tree/master/0619-biggest-single-number) |
 ## Sorting
 |  |
 | ------- |

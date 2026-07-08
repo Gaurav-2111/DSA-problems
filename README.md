@@ -56,6 +56,7 @@ solving Data Structure Algorithm problems
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Gaurav-2111/DSA-problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Gaurav-2111/DSA-problems/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Gaurav-2111/DSA-problems/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Gaurav-2111/DSA-problems/tree/master/0610-triangle-judgement) |
 ## Sorting
 |  |
 | ------- |

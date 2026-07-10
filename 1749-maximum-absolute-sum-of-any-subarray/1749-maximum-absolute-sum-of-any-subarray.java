@@ -6,7 +6,7 @@ class Solution {
         int min = Integer.MAX_VALUE;
         int current = 0;
         for(int num : nums){
-            current += num;
+            // current += num;
 
             currentMax = Math.max(num, currentMax + num);
             max = Math.max(max, currentMax);

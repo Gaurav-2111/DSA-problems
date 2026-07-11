@@ -16,6 +16,7 @@ solving Data Structure Algorithm problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-2111/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Gaurav-2111/DSA-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Gaurav-2111/DSA-problems/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@ solving Data Structure Algorithm problems
 | [0015-3sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gaurav-2111/DSA-problems/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -86,6 +88,7 @@ solving Data Structure Algorithm problems
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |

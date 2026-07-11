@@ -22,6 +22,7 @@ solving Data Structure Algorithm problems
 | [0643-maximum-average-subarray-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Gaurav-2111/DSA-problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gaurav-2111/DSA-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -95,6 +96,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |

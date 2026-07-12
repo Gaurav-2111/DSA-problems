@@ -72,6 +72,7 @@ solving Data Structure Algorithm problems
 | [0627-swap-sex-of-employees](https://github.com/Gaurav-2111/DSA-problems/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/1075-project-employees-i) |
+| [1148-article-views-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/1148-article-views-i) |
 ## Sorting
 |  |
 | ------- |

@@ -20,6 +20,7 @@ solving Data Structure Algorithm problems
 | [0283-move-zeroes](https://github.com/Gaurav-2111/DSA-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Gaurav-2111/DSA-problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Gaurav-2111/DSA-problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -91,6 +92,7 @@ solving Data Structure Algorithm problems
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |

@@ -20,6 +20,7 @@ solving Data Structure Algorithm problems
 | [0283-move-zeroes](https://github.com/Gaurav-2111/DSA-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Gaurav-2111/DSA-problems/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Gaurav-2111/DSA-problems/tree/master/0724-find-pivot-index) |
@@ -96,6 +97,7 @@ solving Data Structure Algorithm problems
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
@@ -107,6 +109,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gaurav-2111/DSA-problems/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0974-subarray-sums-divisible-by-k) |

@@ -6,6 +6,7 @@ solving Data Structure Algorithm problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gaurav-2111/DSA-problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -95,6 +96,7 @@ solving Data Structure Algorithm problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0525-contiguous-array) |

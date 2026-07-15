@@ -17,6 +17,7 @@ solving Data Structure Algorithm problems
 | [0136-single-number](https://github.com/Gaurav-2111/DSA-problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-2111/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
@@ -87,6 +88,7 @@ solving Data Structure Algorithm problems
 | [0016-3sum-closest](https://github.com/Gaurav-2111/DSA-problems/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Gaurav-2111/DSA-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -101,6 +103,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-2111/DSA-problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0525-contiguous-array) |
@@ -124,6 +127,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -145,4 +149,8 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gaurav-2111/DSA-problems/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

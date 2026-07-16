@@ -35,6 +35,7 @@ solving Data Structure Algorithm problems
 | [1480-running-sum-of-1d-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gaurav-2111/DSA-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gaurav-2111/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ solving Data Structure Algorithm problems
 | [0189-rotate-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gaurav-2111/DSA-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gaurav-2111/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -155,4 +157,8 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gaurav-2111/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

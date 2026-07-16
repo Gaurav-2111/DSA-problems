@@ -84,6 +84,7 @@ solving Data Structure Algorithm problems
 | [1075-project-employees-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Gaurav-2111/DSA-problems/tree/master/1179-reformat-department-table) |
+| [1251-average-selling-price](https://github.com/Gaurav-2111/DSA-problems/tree/master/1251-average-selling-price) |
 ## Sorting
 |  |
 | ------- |

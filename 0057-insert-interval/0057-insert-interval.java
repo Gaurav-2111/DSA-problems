@@ -1,46 +1,39 @@
 import java.util.*;
 
 class Solution {
-
     public int[][] insert(int[][] intervals, int[] newInterval) {
 
-        List<int[]> list = new ArrayList<>();
-        boolean inserted = false;
-
-        // Step 1: Insert newInterval in the correct position
-        for (int[] interval : intervals) {
-
-            if (!inserted && newInterval[0] < interval[0]) {
-                list.add(newInterval);
-                inserted = true;
-            }
-
-            list.add(interval);
-        }
-
-        // If newInterval belongs at the end
-        if (!inserted) {
-            list.add(newInterval);
-        }
-
-        // Step 2: Merge the sorted intervals
         List<int[]> result = new ArrayList<>();
 
-        int[] current = list.get(0);
+        int start = newInterval[0];
+        int end = newInterval[1];
 
-        for (int i = 1; i < list.size(); i++) {
+        for (int i = 0; i < intervals.length; i++) {
 
-            int[] next = list.get(i);
+            int s = intervals[i][0];
+            int e = intervals[i][1];
 
-            if (current[1] >= next[0]) {
-                current[1] = Math.max(current[1], next[1]);
-            } else {
-                result.add(current);
-                current = next;
+            // Case 1: Current interval is completely before newInterval
+            if (e < start) {
+                result.add(new int[]{s, e});
+            }
+
+            // Case 2: Current interval is completely after newInterval
+            else if (s > end) {
+                result.add(new int[]{start, end});
+                start = s;
+                end = e;
+            }
+
+            // Case 3: Overlapping intervals
+            else {
+                start = Math.min(start, s);
+                end = Math.max(end, e);
             }
         }
 
-        result.add(current);
+        // Add the last interval
+        result.add(new int[]{start, end});
 
         return result.toArray(new int[result.size()][]);
     }

@@ -33,6 +33,7 @@ solving Data Structure Algorithm problems
 | [0724-find-pivot-index](https://github.com/Gaurav-2111/DSA-problems/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/Gaurav-2111/DSA-problems/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Gaurav-2111/DSA-problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -52,6 +53,7 @@ solving Data Structure Algorithm problems
 | [0189-rotate-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gaurav-2111/DSA-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0986-interval-list-intersections](https://github.com/Gaurav-2111/DSA-problems/tree/master/0986-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gaurav-2111/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -166,4 +168,8 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gaurav-2111/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Gaurav-2111/DSA-problems/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->

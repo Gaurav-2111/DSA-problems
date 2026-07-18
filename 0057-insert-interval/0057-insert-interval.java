@@ -1,47 +1,47 @@
+import java.util.*;
+
 class Solution {
-
-    public int[][] merge(int[][] intervals) {
-        List<int[]> res = new ArrayList<>();
-        int n = intervals.length;
-
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
-
-        int start1 = intervals[0][0];
-        int end1 = intervals[0][1];
-
-        for (int i = 1; i < n; i++) {
-            int start2 = intervals[i][0];
-            int end2 = intervals[i][1];
-
-            if (end1 >= start2) {
-                end1 = Math.max(end1, end2);
-                continue;
-            }
-
-            res.add(new int[]{start1, end1});
-
-            start1 = start2;
-            end1 = end2;
-        }
-
-        // Add the last merged interval
-        res.add(new int[]{start1, end1});
-
-        return res.toArray(new int[res.size()][]);
-    }
 
     public int[][] insert(int[][] intervals, int[] newInterval) {
 
-        int[][] arr = new int[intervals.length + 1][2];
+        List<int[]> list = new ArrayList<>();
+        boolean inserted = false;
 
-        for (int i = 0; i < intervals.length; i++) {
-            arr[i] = intervals[i];
+        // Step 1: Insert newInterval in the correct position
+        for (int[] interval : intervals) {
+
+            if (!inserted && newInterval[0] < interval[0]) {
+                list.add(newInterval);
+                inserted = true;
+            }
+
+            list.add(interval);
         }
 
-        arr[intervals.length] = newInterval;
+        // If newInterval belongs at the end
+        if (!inserted) {
+            list.add(newInterval);
+        }
 
-        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
+        // Step 2: Merge the sorted intervals
+        List<int[]> result = new ArrayList<>();
 
-        return merge(arr);
+        int[] current = list.get(0);
+
+        for (int i = 1; i < list.size(); i++) {
+
+            int[] next = list.get(i);
+
+            if (current[1] >= next[0]) {
+                current[1] = Math.max(current[1], next[1]);
+            } else {
+                result.add(current);
+                current = next;
+            }
+        }
+
+        result.add(current);
+
+        return result.toArray(new int[result.size()][]);
     }
 }

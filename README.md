@@ -105,6 +105,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -172,4 +173,8 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Gaurav-2111/DSA-problems/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

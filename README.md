@@ -104,6 +104,7 @@ solving Data Structure Algorithm problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav-2111/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
@@ -176,5 +177,6 @@ solving Data Structure Algorithm problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav-2111/DSA-problems/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

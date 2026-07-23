@@ -110,6 +110,7 @@ solving Data Structure Algorithm problems
 | [0020-valid-parentheses](https://github.com/Gaurav-2111/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Gaurav-2111/DSA-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -186,6 +187,7 @@ solving Data Structure Algorithm problems
 | [0503-next-greater-element-ii](https://github.com/Gaurav-2111/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Gaurav-2111/DSA-problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Gaurav-2111/DSA-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

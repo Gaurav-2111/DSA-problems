@@ -111,6 +111,7 @@ solving Data Structure Algorithm problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/Gaurav-2111/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Gaurav-2111/DSA-problems/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurav-2111/DSA-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Gaurav-2111/DSA-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -127,6 +128,7 @@ solving Data Structure Algorithm problems
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Gaurav-2111/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Gaurav-2111/DSA-problems/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -204,4 +206,8 @@ solving Data Structure Algorithm problems
 | [0496-next-greater-element-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gaurav-2111/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Gaurav-2111/DSA-problems/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Gaurav-2111/DSA-problems/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->

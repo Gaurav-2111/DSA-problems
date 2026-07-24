@@ -109,6 +109,7 @@ solving Data Structure Algorithm problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-2111/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/Gaurav-2111/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurav-2111/DSA-problems/tree/master/1189-maximum-number-of-balloons) |
@@ -124,6 +125,7 @@ solving Data Structure Algorithm problems
 | [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Gaurav-2111/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0525-contiguous-array) |
@@ -176,6 +178,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Gaurav-2111/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Gaurav-2111/DSA-problems/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation

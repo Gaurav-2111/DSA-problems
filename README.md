@@ -109,6 +109,7 @@ solving Data Structure Algorithm problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-2111/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Gaurav-2111/DSA-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## String Matching
@@ -122,6 +123,7 @@ solving Data Structure Algorithm problems
 | [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav-2111/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-2111/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Gaurav-2111/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Gaurav-2111/DSA-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-2111/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -158,6 +160,7 @@ solving Data Structure Algorithm problems
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gaurav-2111/DSA-problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -171,6 +174,7 @@ solving Data Structure Algorithm problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav-2111/DSA-problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gaurav-2111/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |

@@ -16,33 +16,32 @@ class Solution {
         }
 
         int min = res;
-        low = 0;
+        if(target >= nums[res] && target <= nums[n-1]){
+            high = n-1;
+            while(min<=high){
+                int mid = min+(high-min)/2;
 
-        high = n-1;
-        int last = min-1;
-        while(low<=last){
-            int mid = low+(last-low)/2;
+                if (nums[mid] == target) return mid;
+                else if (nums[mid] < target) min = mid + 1;
+                else high = mid - 1;
+            }
+        }else{
+            low = 0;
+            int last = min-1;
+            while(low<=last){
+                int mid = low+(last-low)/2;
 
-            if (nums[mid] == target){
-                return mid;
-            }
-            else if (nums[mid] < target){ 
-                low = mid + 1;
-            }
-            else {
-                last = mid - 1;
+                if (nums[mid] == target){
+                    return mid;
+                }
+                else if (nums[mid] < target){ 
+                    low = mid + 1;
+                }
+                else {
+                    last = mid - 1;
+                }
             }
         }
-
-        high = n-1;
-        while(min<=high){
-            int mid = min+(high-min)/2;
-
-            if (nums[mid] == target) return mid;
-            else if (nums[mid] < target) min = mid + 1;
-            else high = mid - 1;
-        }
-
         return -1; 
     }
 }

@@ -114,6 +114,7 @@ solving Data Structure Algorithm problems
 | [1407-top-travellers](https://github.com/Gaurav-2111/DSA-problems/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Gaurav-2111/DSA-problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Gaurav-2111/DSA-problems/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/Gaurav-2111/DSA-problems/tree/master/1527-patients-with-a-condition) |
 ## Sorting
 |  |
 | ------- |
